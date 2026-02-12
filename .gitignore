@@ -19,3 +19,7 @@ node_modules/
 # Temporary files
 *.tmp
 .temp/
+
+# Session logs
+logs/
+.claude/
