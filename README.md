@@ -308,6 +308,11 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ---
 
-**Built with ❤️ for the Claude Code and OpenClaw communities**
+<div align="center">
+<p><a target="_blank" rel="noopener noreferrer" href="/unobtuse/reactbits-frontend-design-skill/blob/main/logos/gabemadeit-white-logo.svg"><img src="/unobtuse/reactbits-frontend-design-skill/raw/main/logos/gabemadeit-white-logo.svg" alt="GabeMade.it" style="max-width: 100%;"></a></p>
+<p><strong>Built with ❤️ by <a href="https://gabemade.it">GabeMade.it</a></strong></p>
+</div>
+
+---
 
 ⭐ Star this repo if you find it helpful!
