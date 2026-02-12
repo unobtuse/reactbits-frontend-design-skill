@@ -8,7 +8,7 @@ Thank you for your interest in contributing! This document provides guidelines f
 
 If you find a bug or have a suggestion:
 
-1. Check if the issue already exists in [GitHub Issues](https://github.com/YOUR_USERNAME/reactbits-frontend-design-skill/issues)
+1. Check if the issue already exists in [GitHub Issues](https://github.com/unobtuse/reactbits-frontend-design-skill/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce (for bugs)
@@ -184,7 +184,7 @@ Before submitting a PR:
 
 ## Questions?
 
-- Open a [Discussion](https://github.com/YOUR_USERNAME/reactbits-frontend-design-skill/discussions)
+- Open a [Discussion](https://github.com/unobtuse/reactbits-frontend-design-skill/discussions)
 - Join our [Discord](https://discord.gg/reactbits)
 - Email: [your-email@example.com]
 

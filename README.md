@@ -26,7 +26,7 @@ This skill teaches Claude Code and OpenClaw how to effectively use [ReactBits](h
 ```bash
 # Install to plugins directory
 cd ~/.claude/plugins
-git clone https://github.com/YOUR_USERNAME/reactbits-frontend-design-skill
+git clone https://github.com/unobtuse/reactbits-frontend-design-skill
 cd reactbits-frontend-design-skill
 
 # Make scripts executable
@@ -38,7 +38,7 @@ chmod +x scripts/*.sh
 ```bash
 # Install to global skills directory
 cd ~/.openclaw/skills
-git clone https://github.com/YOUR_USERNAME/reactbits-frontend-design-skill
+git clone https://github.com/unobtuse/reactbits-frontend-design-skill
 
 # Make scripts executable
 chmod +x reactbits-frontend-design-skill/scripts/*.sh
@@ -267,7 +267,7 @@ All components available in 4 variants:
 
 ## Companion Projects
 
-- **[ReactBits Design Assistant Agent](https://github.com/YOUR_USERNAME/reactbits-design-assistant-agent)** - AI design consultant for expert guidance
+- **[ReactBits Design Assistant Agent](https://github.com/unobtuse/reactbits-design-assistant-agent)** - AI design consultant for expert guidance
 
 ## Contributing
 
@@ -293,7 +293,7 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/reactbits-frontend-design-skill/issues)
+- **Issues:** [GitHub Issues](https://github.com/unobtuse/reactbits-frontend-design-skill/issues)
 - **ReactBits Issues:** https://github.com/DavidHDev/react-bits/issues
 - **Discord:** [Join the community](https://discord.gg/reactbits)
 
